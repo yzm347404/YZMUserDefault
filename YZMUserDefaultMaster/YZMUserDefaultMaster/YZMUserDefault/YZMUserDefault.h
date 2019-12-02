@@ -10,7 +10,7 @@
 
 @interface YZMUserDefault : NSObject<NSCopying,NSMutableCopying>
 
-//test1
+//test1 222
 
 + (instancetype)shareInstance;
 
