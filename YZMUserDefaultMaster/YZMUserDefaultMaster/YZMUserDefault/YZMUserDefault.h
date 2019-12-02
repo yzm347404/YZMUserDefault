@@ -14,6 +14,9 @@
 //test2 777
 
 
+//111111111111
+
+
 + (instancetype)shareInstance;
 
 - (void)yzmUserDefault_setObject:(id)obj forKey:(NSString *)key;
