@@ -10,6 +10,8 @@
 
 @interface YZMUserDefault : NSObject<NSCopying,NSMutableCopying>
 
+//test1
+
 + (instancetype)shareInstance;
 
 - (void)yzmUserDefault_setObject:(id)obj forKey:(NSString *)key;
